@@ -1,4 +1,4 @@
-
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/flow-guided-feature-aggregation-for-video/video-object-detection-on-imagenet-vid)](https://paperswithcode.com/sota/video-object-detection-on-imagenet-vid?p=flow-guided-feature-aggregation-for-video)
 
 [![PyPI version](https://badge.fury.io/py/motmetrics.svg)](https://badge.fury.io/py/motmetrics) [![](https://travis-ci.org/cheind/py-motmetrics.svg?branch=master)](https://travis-ci.org/cheind/py-motmetrics)
 
